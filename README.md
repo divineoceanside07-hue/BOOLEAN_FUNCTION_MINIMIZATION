@@ -60,5 +60,5 @@ RegisterNumber:25013604
 
 **Result:**
 
-Thus the given logic functions are implemented using Boolean Functionsand their operations are verified using Verilog programming.
+Thus the given logic functions are implemented using Boolean Functions and their operations are verified using Verilog programming.
 
